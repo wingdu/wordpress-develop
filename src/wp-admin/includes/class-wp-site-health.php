@@ -3155,6 +3155,7 @@ class WP_Site_Health {
 			},
 			'x-srcache-store-status' => $cache_hit_callback,
 			'x-srcache-fetch-status' => $cache_hit_callback,
+			'x-litespeed-cache'		 => '',
 		);
 
 		/**
